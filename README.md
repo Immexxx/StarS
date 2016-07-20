@@ -1,2 +1,3 @@
 # StarS
 seek
+Direct edit
